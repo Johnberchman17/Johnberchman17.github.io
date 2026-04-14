@@ -115,4 +115,11 @@ section {
 .contact {
   background: rgba(0,0,0,0.4);
   padding: 40px;
+  text-align: center;
+}
+
+.contact h2,
+.contact p {
+  text-align: center;
+  margin: 0 auto;
 }
